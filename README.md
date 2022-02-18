@@ -1,4 +1,4 @@
-Insertion Sort
+## Insertion Sort
 
 This is a simple algorithm for sorting vectors using the Insertion Sort method.
 A simple sorting algorithm that builds the final sorted list by transferring one element at a time.
