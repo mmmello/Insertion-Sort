@@ -51,7 +51,7 @@ Em comparação com Bubble Sort e Selection Sort (ambos os métodos são coberto
 
 ## 📂 Acesso ao projeto 
 
-Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Selection-Sort/tree/main/src">aqui</a>.
+Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Insertion-Sort/tree/main/src">aqui</a>.
 
 ## 💻 Desenvolvedor
 Matheus Mello, 2022
